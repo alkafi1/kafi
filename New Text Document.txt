@@ -1,0 +1,200 @@
+.about-section{
+    max-width: 1148px;
+    margin: 30px auto;
+    background-position: center unset;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.about-img{
+    margin: 0 20px;
+}
+
+.about-img img{
+    border-radius: 270px;
+    width: 440px;
+    height: 440px;
+    object-fit: cover;
+    box-shadow: 0 0 0 5px #c49b66;
+    border: 5px solid #fff;
+}
+.about-name{
+    margin-right: 30px ;
+}
+
+.about-name span{
+    display: block;
+    font-weight: 100;
+    margin-bottom: 5px;
+    font-size: 25px;
+    
+}
+.about-name h2{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.hr{
+    margin-bottom: 15px;
+    font-weight: 800;
+}
+.about-name p{
+    font-size: 20px;
+    line-height: 1.8;
+}
+.social-icon{
+    font-size: 16px;
+    color: tomato;
+    border-style: groove;
+    padding: 0 0;
+    margin: 5px 0;
+
+}
+.social-icon:first-child{
+    margin: 0;
+}
+.icon{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    border-style: dotted;
+
+}
+.icon:hover{
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+                       <div class="col span_1_of_2 social-icon">
+                        <div class="col span_1_of_4 icon ">
+                             <i class="fab fa-facebook-square"></i>
+                           </div>
+                           <div class="col span_1_of_4 icon">
+                             <i class="fab fa-twitter"></i>
+                           </div>
+                           <div class="col span_1_of_4 icon">
+                             <i class="fab fa-linkedin"></i>
+                           </div>
+                           <div class="col span_1_of_4 icon">
+                             <i class="fab fa-github-square"></i>
+                           </div>
+                       </div>
+                       <div class="col span_1_of_2 btn-icon">
+                           <div class="col span_1_of_2">
+                            <a href="#" class="btn">Hire Me</a>
+                            <a href="#" class="btn">Download CV</a>
+                           </div>
+                       </div>
+                   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.about-awards .awards{
+    text-align: center;
+}
+.about-awards .awards .fas{
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+.about-awards .awards p{
+    margin-bottom: 15px;
+    
+    
+}
+.about-awards  .customers{
+    text-align: center;
+}
+.about-awards  .customers .fas{
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+.about-awards .customers p{
+    margin-bottom: 15px;
+    
+}
+.about-awards .projects{
+    text-align: center;
+}
+.about-awards .projects .fas{
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+.about-awards .projects p{
+    margin-bottom: 15px;
+}
+.about-awards .photos{
+    text-align: center;
+}
+.about-awards .photos .fas{
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+.about-awards .photos p{
+    margin-bottom: 15px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+<div class="col span_1_of_2>
+                        <i class="fas fa-id-card-alt"></i>
+                        <h3>Al Kafi</h3>
+                </div>
+
+                <div class="col span_1_of_2>
+                        <i class="fas fa-id-card-alt"></i>
+                        <h3>Al Kafi</h3>
+               </div>
+
+               <div class="col span_1_of_2">
+                    <i class="fas fa-id-card-alt"></i>
+                    <h3>Al Kafi</h3>
+               </div>
+               <div class="col span_1_of_2">
+                    <i class="fas fa-id-card-alt"></i>
+                    <h3>Al Kafi</h3>
+                </div>
